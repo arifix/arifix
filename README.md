@@ -32,6 +32,10 @@ I'm Arif Khan, a Web Application Developer from Khulna, Bangladesh.
   </tbody>
 </table>
 
+#### Most Used Languages
+
+![arifix's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arifix&theme=light&hide_langs_below=1)
+
 #### Github Stats
 
-![arifix's github stats](https://github-readme-stats.vercel.app/api?username=arifix&count_private=true&theme=tokyonight&hide=contribs,prs)
+![arifix's github stats](https://github-readme-stats.vercel.app/api?username=arifix&count_private=true)
