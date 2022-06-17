@@ -38,4 +38,4 @@ I'm Arif Khan, a Web Application Developer from Khulna, Bangladesh.
 
 #### Github Stats
 
-![arifix's github stats]([https://github-readme-stats.vercel.app/api?username=arifix&count_private=true](https://github-readme-stats.vercel.app/api?username=sajjadhira&show_icons=true&theme=light&line_height=27))
+![arifix's github stats](https://github-readme-stats.vercel.app/api?username=arifix&show_icons=true&theme=light&line_height=27)
