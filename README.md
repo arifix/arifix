@@ -38,6 +38,16 @@ I'm Arif Khan, a Web Application Developer from Khulna, Bangladesh.
       <td>Android(native Java) quiz application</td>
       <td>350+ sale on Codecanyon</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/arifix/gutpress" target="_blank">Quizix</a></td>
+      <td>WP Gutenburg Blocks Plugin</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/arifix/google-pagespeed-checker" target="_blank">Quizix</a></td>
+      <td>Chrome extension to check Google PageSpeed</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
