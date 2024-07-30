@@ -21,7 +21,7 @@ const arif = {
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=arifix&show_icons=true&count_private=true&theme=dark&hide_border=true">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifix&layout=compact&hide_border=true&theme=dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arifix&theme=vdark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arifix&theme=dark&hide_border=true">
   <br>
   <br>
   <a href="https://www.buymeacoffee.com/arifix"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Arif Khan" /></a>
