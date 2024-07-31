@@ -4,9 +4,8 @@ I'm Arif Khan, a Web Application Developer from Khulna, Bangladesh.
 
 ```javascript
 const arif = {
-    pronouns: "He" | "Him",
     backEnd: ["JavaScript", "PHP"],
-    frontEnd: ["HTML5", "CSS3],
+    frontEnd: ["HTML5", "CSS3"],
     cssFrameworks: ["Bootstrap", "TailwindCSS", "SASS"],
     cms: ["WordPress", "Shopify"],
     jsLibraries: ["ReactJS"],
