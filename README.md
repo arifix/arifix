@@ -19,7 +19,7 @@ const arif = {
 
 <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=arifix" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifix&langs_count=5" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifix&langs_count=3" />
 </p>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifix&theme=github" />
