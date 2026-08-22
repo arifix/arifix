@@ -18,11 +18,11 @@ const arif = {
 ```
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifix&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifix&theme=github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=arifix" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifix&langs_count=5" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arifix&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifix&theme=github" />
 </p>
 <p align="center">
   <a href="https://www.buymeacoffee.com/arifix"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Arif Khan" /></a>
