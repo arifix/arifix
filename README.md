@@ -4,7 +4,7 @@ I'm Arif Khan, a full-stack software developer from Khulna, Bangladesh, helping 
 
 ```javascript
 const arif = {
-    backEnd: ["PHP", "JavaScript", "TypeScript"],
+    backEnd: ["PHP", "JavaScript", "Python", "TypeScript"],
     frontEnd: ["HTML5", "CSS3"],
     cssFrameworks: ["Bootstrap", "TailwindCSS", "SASS"],
     cms: ["WordPress", "Shopify"],
@@ -18,14 +18,14 @@ const arif = {
 };
 ```
 
-<p align="center">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=ae8f430a-8923-47cc-ac73-17d13e882118&langs_count=6" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arifix&langs_count=3" />
+<p>
+    [![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ae8f430a-8923-47cc-ac73-17d13e882118&langs_count=6)](https://wakatime.com/@ae8f430a-8923-47cc-ac73-17d13e882118)
+    ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=arifix&langs_count=3)
 </p>
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=arifix" />
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifix&theme=github" /> -->
+<p>
+    ![GitHub Streak](https://streak-stats.demolab.com/?user=arifix)
+    <!-- ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifix&theme=github) -->
 </p>
-<p align="center">
+<p>
   <a href="https://www.buymeacoffee.com/arifix"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="Arif Khan" /></a>
 </p>
